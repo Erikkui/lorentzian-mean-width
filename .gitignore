@@ -1,0 +1,4 @@
+
+
+# ignore ALL MATLAB Drive files
+.MATLABDriveTag*
